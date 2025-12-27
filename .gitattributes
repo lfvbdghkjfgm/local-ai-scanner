@@ -1,4 +1,10 @@
 dist/* filter=lfs diff=lfs merge=lfs -text
-dist/* filter=lfs diff=lfs merge=lfs -text
-dist/* filter=lfs diff=lfs merge=lfs -text
 */* filter=lfs diff=lfs merge=lfs -text
+/dist/windows/_internal/grpc/_cython/cygrpc.cp313-win_amd64.pyd filter=lfs diff=lfs merge=lfs -text
+/dist/windows/_internal/numpy.libs/libscipy_openblas64_-9e3e5a4229c1ca39f10dc82bba9e2b2b.dll filter=lfs diff=lfs merge=lfs -text
+/dist/windows/_internal/tensorflow/compiler/mlir/stablehlo/stablehlo_extension.pyd filter=lfs diff=lfs merge=lfs -text
+/dist/windows/_internal/tensorflow/compiler/tf2xla/ops/_xla_ops.so filter=lfs diff=lfs merge=lfs -text
+/dist/windows/_internal/tensorflow/lite/python/pywrap_tflite_common.dll filter=lfs diff=lfs merge=lfs -text
+/dist/windows/_internal/tensorflow/python/profiler/internal/_pywrap_profiler_plugin.pyd filter=lfs diff=lfs merge=lfs -text
+/dist/windows/_internal/torch/lib/torch_python.dll filter=lfs diff=lfs merge=lfs -text
+/dist/windows/main.exe filter=lfs diff=lfs merge=lfs -text
