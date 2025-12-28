@@ -1,5 +1,14 @@
-dist/* filter=lfs diff=lfs merge=lfs -text
-*/* filter=lfs diff=lfs merge=lfs -text
+﻿# Git LFS
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.pyd filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+*.whl filter=lfs diff=lfs merge=lfs -text
+*.onnx filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.joblib filter=lfs diff=lfs merge=lfs -text
 /dist/windows/_internal/grpc/_cython/cygrpc.cp313-win_amd64.pyd filter=lfs diff=lfs merge=lfs -text
 /dist/windows/_internal/numpy.libs/libscipy_openblas64_-9e3e5a4229c1ca39f10dc82bba9e2b2b.dll filter=lfs diff=lfs merge=lfs -text
 /dist/windows/_internal/tensorflow/compiler/mlir/stablehlo/stablehlo_extension.pyd filter=lfs diff=lfs merge=lfs -text
