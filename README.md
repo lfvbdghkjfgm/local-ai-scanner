@@ -8,20 +8,20 @@
 ### Windows (просто распаковать и запустить)
 | Версия | Размер | Скачать | 
 |--------|--------|---------|
-| **v1.0.0** | ~450 MB | [Local AI Scanner.zip](releases/1.0/windows/Local AI Scanner.zip) |
-| **Последняя** | ~450 MB | [Local AI Scanner.zip](releases/1.0/windows/Local AI Scanner.zip) |
+| **v1.0.0** | ~450 MB | [Local AI Scanner.zip](releases/1.0/windows/Local%20AI%20Scanner.zip) |
+| **Последняя** | ~450 MB | [Local AI Scanner.zip](releases/1.0/windows/Local%20AI%20Scanner.zip) |
 
 ### Linux
 | Версия | Размер | Скачать |
 |--------|--------|---------|
-| **v1.0.0** | ~450 MB | [Local AI Scanner.zip](releases/1.0/windows/Local AI Scanner.zip) |
-| **Последняя** | ~450 MB | [Local AI Scanner.zip](releases/1.0/windows/Local AI Scanner.zip) |
+| **v1.0.0** | ~450 MB | [Local AI Scanner.zip](releases/1.0/windows/Local%20AI%20Scanner.zip) |
+| **Последняя** | ~450 MB | [Local AI Scanner.zip](releases/1.0/windows/Local%20AI%20Scanner.zip) |
 
 ### Актуальная версия без архивации
 | Версия |  ОС  | Размер | Скачать |
 |--------|------|--------|---------|
-| **v1.0.0** |Windows| ~1,45 GB | [Local AI Scanner](dist/1.0/windows/Local AI Scanner) |
-| **v1.0.0** |Linux| ~1,45 GB | [Local AI Scanner](dist/1.0/windows/Local AI Scanner) |
+| **v1.0.0** |Windows| ~1,45 GB | [Local AI Scanner](dist/1.0/windows/Local%20AI%20Scanner) |
+| **v1.0.0** |Linux| ~1,45 GB | [Local AI Scanner](dist/1.0/windows/Local%20AI%20Scanner) |
 
 ### Исходный код сканера в [source code](src)
 
