@@ -23,7 +23,7 @@
 | **v1.0.0** |Windows| ~1,45 GB | [Local AI Scanner](dist/1.0/windows/Local%20AI%20Scanner) |
 | **v1.0.0** |Linux| ~1,45 GB | [Local AI Scanner](dist/1.0/windows/Local%20AI%20Scanner) |
 
-### Исходный код сканера в [source code](src)
+### Исходный код сканера в [source code](src/1.0)
 
 ##🚀 Быстрый старт (без установки)
 ### Windows:
